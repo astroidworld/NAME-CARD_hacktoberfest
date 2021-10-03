@@ -4,7 +4,7 @@ const ListCard = ({listdata}) => {
     console.log(listdata)
     return (
         <>
-        {listdata.map((curElement,) => {
+        {listdata.map((curElement) => {
             return (
 <>
 <div class="card" key={curElement.id}>               
