@@ -6,7 +6,12 @@ const List = [
     lastName: "Das",
     link: "https://github.com/astroidworld",
     }, 
-
+    {
+    image:"./images/female.png",
+    firstName: "Sarmila",
+    lastName: "Das",
+    link: "https://github.com/",
+    }, 
     
     
     
