@@ -1,4 +1,4 @@
-# 🥳🥳 HacktoberFest Begineer friendly Project 🥳🥳
+# 🥳🥳 HacktoberFest Beginner friendly Project 🥳🥳
 
 # 🎴🎴🎴🎴 NAME-CARD 🎴🎴🎴🎴
 
@@ -10,7 +10,7 @@ A month-long celebration from October 1st - 31st sponsored by Digital Ocean and 
 Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
 # What is NAME-CARD?
-NAME-CARD is a web app where you can showcase your GitHub profile link along with your name. It is a 100% begineer friendly project to contribute. 
+NAME-CARD is a web app where you can showcase your GitHub profile link along with your name. It is a  beginner friendly project to contribute. 
 Just follow the below steps to contribute in the project.
 
 # How to contribute to this project
