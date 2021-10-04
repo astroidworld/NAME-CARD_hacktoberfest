@@ -56,7 +56,7 @@ git push origin branch-name
 
 ![doc](https://user-images.githubusercontent.com/75432008/135874675-c2588bb9-c943-4294-a3c8-04e2cc6c611d.PNG)
 
-* so now you have to put your name and github prfile link according to the format below:
+* so now you have to put your name and github profile link according to the format below:
 * There are two code-snnipet ( First one is for male avtar and the Second one is for female avtar)
 * You only have to change your first name,last name & github link with your details.
 * But remember, Don't remove the quoation mark.(You can see the demo image below)
