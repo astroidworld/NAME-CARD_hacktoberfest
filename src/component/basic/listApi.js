@@ -1,9 +1,9 @@
 const List = [
     {
     image:"/images/male.png",
-    firstName: "Akash",
-    lastName: "Das",
-    link: "https://github.com/astroidworld",
+    firstName: "paul",
+    lastName: "jeremiah",
+    link: "https://github.com/0xcyberpj",
     }, 
 
     {
