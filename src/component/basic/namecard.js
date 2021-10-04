@@ -3,9 +3,9 @@ import "./style.css"
 import List from "./listApi.js"
 import ListCard from './listCard'
 const Namecard1 = () => {
-
+// eslint-disable-next-line
   const [listdata , setListdata] = React.useState(List);
-
+  
     return (
         <> 
         <div class="container">
