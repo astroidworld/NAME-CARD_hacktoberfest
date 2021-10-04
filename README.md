@@ -23,7 +23,8 @@ Just follow the below steps to contribute in the project.
 * Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/your-username/hacktoberfest.git
+git clone https://github.com/your-username/NAME-CARD_hacktoberfest.git
+
 ```
 * Create a branch
 
