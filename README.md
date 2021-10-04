@@ -60,6 +60,7 @@ git push origin branch-name
 * There are two code-snnipet ( First one is for male avtar and the Second one is for female avtar)
 * You only have to change your first name,last name & github link with your details.
 * But remember, Don't remove the quoation mark.(You can see the demo image below)
+* Please don't remove any other code. Just place your code after the last block of code.
 
 #### For male avtar  
 ```markdown
