@@ -85,7 +85,7 @@ link: "GitHub Link",
 
 * Here is a demo image of the placing of code below:
 
-![demodoc](https://user-images.githubusercontent.com/75432008/135878995-d76e0856-fe18-4a17-a335-555bc72b28b4.jpg)
+![demodoc (1)](https://user-images.githubusercontent.com/75432008/135912459-e6a1b16f-d0e1-429d-9353-062f7d8cd2b7.jpg)
 
 ### Third step :--->
 
