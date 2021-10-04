@@ -29,8 +29,8 @@ const List = [
 
   {
     image: "/images/male.png",
-    firstName: "Baibhav",
-    lastName: "Panda",
+    firstName: "BAIBHAV",
+    lastName: "PANDA",
     link: "https://github.com/baibhav0305",
   },
 ];
