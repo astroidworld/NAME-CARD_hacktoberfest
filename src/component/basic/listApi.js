@@ -33,20 +33,27 @@ const List = [
     lastName: "Gaur",
     link: "https://github.com/Devansh-gaur-1611",
   },
-  
+
   {
     image: "/images/male.png",
     firstName: "BAIBHAV",
     lastName: "PANDA",
     link: "https://github.com/baibhav0305",
   },
-  
+
   {
     image:"/images/male.png",
     firstName: "Ashutosh",
     lastName: "Padhy",
     link: "https://github.com/a-padhy",
-    },  
+  },
+
+  {
+    image:"https://avatars.githubusercontent.com/oaparecido",
+    firstName: "Daniel",
+    lastName: "Aparecido",
+    link: "https://github.com/oaparecido",
+  },
 ];
 
 export default List;
