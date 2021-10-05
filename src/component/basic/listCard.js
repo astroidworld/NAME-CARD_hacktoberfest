@@ -6,21 +6,18 @@ const ListCard = ({listdata}) => {
         <>
         {listdata.map((curElement) => {
             return (
-                <>
-                    <div class="card" key={curElement.id}>
-                        <div class="box">
-                            <div class="content">
-                                {curElement.image.charAt(0) != "/"
-                                    ? <img src={curElement.image} class="avatar-github" alt="avatar"></img>
-                                    : <img src={curElement.image} alt="avatar"></img>}
-                                {/*<img src={curElement.image} alt="avatar"></img>*/}
-                                <h3>{curElement.firstName} {curElement.lastName}</h3>
-                                <h4>Now I'm a open source contributer.</h4>
-                                <a href={curElement.link} target="_blank" rel="noreferrer">Visit</a>
-                            </div>
-                        </div>
-                    </div>
-                </>
+<>
+<div class="card" key={curElement.id}>               
+<div class="box">
+<div class="content">
+<img src={curElement.image} alt="avtar"></img>                     
+<h3>{curElement.firstName} {curElement.lastName}</h3> 
+<h4>Now I'm a open source contributer.</h4>                    
+<a href={curElement.link} target="_blank" rel="noreferrer">Visit</a>
+</div>
+</div>
+</div>  
+</>
             )
         })}
 
