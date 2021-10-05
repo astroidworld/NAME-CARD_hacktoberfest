@@ -83,24 +83,29 @@ const List = [
         firstName: "Daniel",
         lastName: "Aparecido",
         link: "https://github.com/oaparecido",
-    },
+    },  
   
-   {
+  {
     image:"/images/male.png",
     firstName: "Paulo",
     lastName: "Vitor",
     link: "https://github.com/PauloVLB",
-    }, 
+  }, 
 
+  {
+      image: "/images/male.png",
+      firstName: "Kartik",
+      lastName: "Rajput",
+      link: "https://github.com/kartikvirendrar",
+  },
 
-    {
-        image: "/images/male.png",
-        firstName: "Kartik",
-        lastName: "Rajput",
-        link: "https://github.com/kartikvirendrar",
-    },
-
-
+  {
+    image:"/images/female.png",
+    firstName: "Kézia",
+    lastName: "Ketillen",
+    link: "https://github.com/Kk3tillen",
+   },
+  
 ];
 
 export default List;
