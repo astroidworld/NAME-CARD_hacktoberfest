@@ -1,14 +1,14 @@
 const List = [  
 
     {
-        image: "../male.png",
+        image: "./male.png",
         firstName: "Akash",
         lastName: "Das",
         link: "https://github.com/astroidworld",
     },
 
     {
-        image: "../male.png",
+        image: "./male.png",
         firstName: "Soudip",
         lastName: "Das",
         link: "https://github.com/front-runner-sd",
