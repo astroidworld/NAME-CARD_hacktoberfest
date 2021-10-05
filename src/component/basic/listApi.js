@@ -213,6 +213,5 @@ const List = [
 		lastName: 'T',
 		link: 'https://github.com/exithere',
 	},
-];
-
+]
 export default List;
