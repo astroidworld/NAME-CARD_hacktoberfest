@@ -1,4 +1,5 @@
-const List = [
+const List = [  
+
     {
         image: "/images/male.png",
         firstName: "Akash",
@@ -83,6 +84,14 @@ const List = [
         lastName: "Aparecido",
         link: "https://github.com/oaparecido",
     },
+  
+   {
+    image:"/images/male.png",
+    firstName: "Paulo",
+    lastName: "Vitor",
+    link: "https://github.com/PauloVLB",
+    }, 
+
 
 
 
