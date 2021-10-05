@@ -1,7 +1,7 @@
 const List = [  
 
     {
-        image: "./male",
+        image: "./male.png",
         firstName: "Akash",
         lastName: "Das",
         link: "https://github.com/astroidworld",
