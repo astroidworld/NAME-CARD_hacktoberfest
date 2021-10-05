@@ -8,7 +8,7 @@ const List = [
     },
 
     {
-        image: "../images/male.png",
+        image: "./images/male.png",
         firstName: "Soudip",
         lastName: "Das",
         link: "https://github.com/front-runner-sd",
