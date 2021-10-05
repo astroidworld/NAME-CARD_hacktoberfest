@@ -1,4 +1,4 @@
-# 🥳🥳 HacktoberFest Begineer friendly Project 🥳🥳
+# 🥳🥳 HacktoberFest Beginner friendly Project 🥳🥳
 
 # 🎴🎴🎴🎴 NAME-CARD 🎴🎴🎴🎴
 
@@ -10,7 +10,7 @@ A month-long celebration from October 1st - 31st sponsored by Digital Ocean and 
 Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
 # What is NAME-CARD?
-NAME-CARD is a web app where you can showcase your GitHub profile link along with your name. It is a 100% begineer friendly project to contribute. 
+NAME-CARD is a web app where you can showcase your GitHub profile link along with your name. It is a  beginner friendly project to contribute. 
 Just follow the below steps to contribute in the project.
 
 # How to contribute to this project
@@ -23,7 +23,8 @@ Just follow the below steps to contribute in the project.
 * Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/your-username/hacktoberfest.git
+git clone https://github.com/your-username/NAME-CARD_hacktoberfest.git
+
 ```
 * Create a branch
 
@@ -55,10 +56,11 @@ git push origin branch-name
 
 ![doc](https://user-images.githubusercontent.com/75432008/135874675-c2588bb9-c943-4294-a3c8-04e2cc6c611d.PNG)
 
-* so now you have to put your name and github prfile link according to the format below:
+* so now you have to put your name and github profile link according to the format below:
 * There are two code-snnipet ( First one is for male avtar and the Second one is for female avtar)
 * You only have to change your first name,last name & github link with your details.
 * But remember, Don't remove the quoation mark.(You can see the demo image below)
+* Please don't remove any other code. Just place your code after the last block of code.
 
 #### For male avtar  
 ```markdown
@@ -83,7 +85,7 @@ link: "GitHub Link",
 
 * Here is a demo image of the placing of code below:
 
-![demodoc](https://user-images.githubusercontent.com/75432008/135878995-d76e0856-fe18-4a17-a335-555bc72b28b4.jpg)
+![demodoc (1)](https://user-images.githubusercontent.com/75432008/135912459-e6a1b16f-d0e1-429d-9353-062f7d8cd2b7.jpg)
 
 ### Third step :--->
 
