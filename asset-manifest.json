@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/NAME-CARD_hacktoberfest/static/css/main.cdb7ad97.chunk.css",
-    "main.js": "/NAME-CARD_hacktoberfest/static/js/main.0fa2d59a.chunk.js",
-    "main.js.map": "/NAME-CARD_hacktoberfest/static/js/main.0fa2d59a.chunk.js.map",
+    "main.css": "/NAME-CARD_hacktoberfest/static/css/main.fb9fc6de.chunk.css",
+    "main.js": "/NAME-CARD_hacktoberfest/static/js/main.2f2ae940.chunk.js",
+    "main.js.map": "/NAME-CARD_hacktoberfest/static/js/main.2f2ae940.chunk.js.map",
     "runtime-main.js": "/NAME-CARD_hacktoberfest/static/js/runtime-main.310a4c2b.js",
     "runtime-main.js.map": "/NAME-CARD_hacktoberfest/static/js/runtime-main.310a4c2b.js.map",
     "static/js/2.64eb51bf.chunk.js": "/NAME-CARD_hacktoberfest/static/js/2.64eb51bf.chunk.js",
     "static/js/2.64eb51bf.chunk.js.map": "/NAME-CARD_hacktoberfest/static/js/2.64eb51bf.chunk.js.map",
     "index.html": "/NAME-CARD_hacktoberfest/index.html",
-    "static/css/main.cdb7ad97.chunk.css.map": "/NAME-CARD_hacktoberfest/static/css/main.cdb7ad97.chunk.css.map",
+    "static/css/main.fb9fc6de.chunk.css.map": "/NAME-CARD_hacktoberfest/static/css/main.fb9fc6de.chunk.css.map",
     "static/js/2.64eb51bf.chunk.js.LICENSE.txt": "/NAME-CARD_hacktoberfest/static/js/2.64eb51bf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.310a4c2b.js",
     "static/js/2.64eb51bf.chunk.js",
-    "static/css/main.cdb7ad97.chunk.css",
-    "static/js/main.0fa2d59a.chunk.js"
+    "static/css/main.fb9fc6de.chunk.css",
+    "static/js/main.2f2ae940.chunk.js"
   ]
 }
