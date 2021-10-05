@@ -190,6 +190,14 @@ const List = [
         lastName: "Kumar",
         link: "https://github.com/vishaaal",
     },
+
+    {
+        image: "./male.png",
+        firstName: "Arsh",
+        lastName: "Manva",
+        link: "https://github.com/hidekiriyuga",
+     },
+
     
     {
         image:"https://avatars.githubusercontent.com/zulmarij",
@@ -197,6 +205,7 @@ const List = [
         lastName: "Marij",
         link: "https://github.com/zulmarij",
        },
+
         
      {
         image: "./male.png",
@@ -212,14 +221,14 @@ const List = [
         link: "https://github.com/GoyalRohan",
       },
       {
-        image: "/images/male.png",
+        image: "./male.png",
         firstName: "Ankit",
         lastName: "Kandpal",
         link: "https://github.com/ak-create",
     },
     
      {
-        image: "/images/male.png",
+        image: "./male.png",
         firstName: "Anshul",
         lastName: "kumar",
         link: "https://github.com/Anshul123kumar",
