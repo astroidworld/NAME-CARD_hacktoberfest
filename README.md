@@ -14,7 +14,7 @@ NAME-CARD is a web app where you can showcase your GitHub profile link along wit
 Just follow the below steps to contribute in the project.
 
 # How to contribute to this project
- you can contribute in this project very easily by following few steps. Don't worry... there is no need to know any programming language-related knowledge.
+ You can contribute to this project very easily by following a few steps. Don't worry... there is no need to know any programming language-related knowledge.
  You only have to know the Git and Git-hub, and that's it... Now we are ready to start contributing.
  
  ## Getting started
