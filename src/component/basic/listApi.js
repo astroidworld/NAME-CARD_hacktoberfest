@@ -83,29 +83,87 @@ const List = [
         firstName: "Daniel",
         lastName: "Aparecido",
         link: "https://github.com/oaparecido",
-    },
+    },  
   
-   {
+  {
     image:"/images/male.png",
     firstName: "Paulo",
     lastName: "Vitor",
     link: "https://github.com/PauloVLB",
-    }, 
+  }, 
+
+  {
+      image: "/images/male.png",
+      firstName: "Kartik",
+      lastName: "Rajput",
+      link: "https://github.com/kartikvirendrar",
+  },
+
+  {
+    image:"/images/female.png",
+    firstName: "Kézia",
+    lastName: "Ketillen",
+    link: "https://github.com/Kk3tillen",
+   },
+  
+  {
+    image: "/images/male.png",
+    firstName: "Isaac",
+    lastName: "Lourenço",
+    link: "https://github.com/isaacmsl",
+  },
 
 
+  {
+    image:"/images/male.png",
+    firstName: "Jam",
+    lastName: "Stanley",
+    link: "https://github.com/jamstanley",
+    },
+
+  {
+        image: "https://avatars.githubusercontent.com/MananDudhwala",
+        firstName: "Manan",
+        lastName: "Dudhwala",
+        link: "https://github.com/MananDudhwala"
+    },
+    
     {
-        image: "/images/male.png",
-        firstName: "Kartik",
-        lastName: "Rajput",
-        link: "https://github.com/kartikvirendrar",
-    }, 
+        image: "https://avatars.githubusercontent.com/Rharsh750",
+        firstName: "Harsh",
+        lastName: "Rudani",
+        link: "https://github.com/Rharsh750"
+    },
     
     {
         image: "/images/male.png",
         firstName: "Priyanshu",
         lastName: "Mehra",
         link: "https://github.com/Priyanshu95663",
+     },
+  
+    {
+        image: "/images/male.png",
+        firstName: "Naiwrit",
+        lastName: "Mullick",
+        link: "https://github.com/mnaiwrit52",
+
     },
+  
+    {
+        image: "/images/male.png",
+        firstName: "Rony",
+        lastName: "singh",
+        link: "https://github.com/Unferno",
+    },
+
+    {
+        image: "https://avatars.githubusercontent.com/romiljain23",
+        firstName: "Romil",
+        lastName: "Jain",
+        link: "https://github.com/romiljain23",
+    },
+
 
 
 ];
