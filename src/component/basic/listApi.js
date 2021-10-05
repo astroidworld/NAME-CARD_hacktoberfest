@@ -1,7 +1,7 @@
 const List = [  
 
     {
-        image: "/images/male.png",
+        image: "./favicon.ico",
         firstName: "Akash",
         lastName: "Das",
         link: "https://github.com/astroidworld",
