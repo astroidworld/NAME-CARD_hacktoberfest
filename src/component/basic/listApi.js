@@ -148,6 +148,13 @@ const List = [
         link: "https://github.com/Unferno",
     },
 
+    {
+        image: "https://avatars.githubusercontent.com/romiljain23",
+        firstName: "Romil",
+        lastName: "Jain",
+        link: "https://github.com/romiljain23",
+    },
+
 
 
 ];
