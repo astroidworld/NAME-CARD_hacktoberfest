@@ -113,6 +113,15 @@ const List = [
     link: "https://github.com/isaacmsl",
   },
 
+
+  {
+    image:"/images/male.png",
+    firstName: "Jam",
+    lastName: "Stanley",
+    link: "https://github.com/jamstanley",
+    },
+      
+
 ];
 
 export default List;
