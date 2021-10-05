@@ -40,13 +40,20 @@ const List = [
     lastName: "PANDA",
     link: "https://github.com/baibhav0305",
   },
-
-  {
+  
+ {
     image: "/images/male.png",
     firstName: "Ashutosh",
     lastName: "Padhy",
     link: "https://github.com/a-padhy",
-  },
+ },  
+      
+  {
+    image:"/images/female.png",
+    firstName: "Dolly",
+    lastName: "Gupta",
+    link: "https://github.com/dollygupta07",
+  }, 
   
   {
     image:"/images/male.png",
@@ -61,6 +68,7 @@ const List = [
     lastName: "Panigrahi",
     link: "https://github.com/souravpanigrahi",
   },
+
 
 ];
 
