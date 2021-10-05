@@ -1,49 +1,49 @@
 const List = [  
 
     {
-        image: "/images/male.png",
+        image: "./male.png",
         firstName: "Akash",
         lastName: "Das",
         link: "https://github.com/astroidworld",
     },
 
     {
-        image: "/images/male.png",
+        image: "./male.png",
         firstName: "Soudip",
         lastName: "Das",
         link: "https://github.com/front-runner-sd",
     },
 
     {
-        image: "/images/male.png",
+        image: "./male.png",
         firstName: "Dhanushka",
         lastName: "Ranasinghe",
         link: "https://github.com/DhanushkaRanasinghe",
     },
 
     {
-        image: "/images/female.png",
+        image: "./female.png",
         firstName: "Olga",
         lastName: "Tkach",
         link: "https://github.com/tkacholga",
     },
 
     {
-        image: "/images/male.png",
+        image: "./male.png",
         firstName: "Devansh",
         lastName: "Gaur",
         link: "https://github.com/Devansh-gaur-1611",
     },
 
     {
-        image: "/images/male.png",
+        image: "./male.png",
         firstName: "BAIBHAV",
         lastName: "PANDA",
         link: "https://github.com/baibhav0305",
     },    
 
     {
-        image: "/images/male.png",
+        image: "./male.png",
         firstName: "Ashutosh",
         lastName: "Padhy",
         link: "https://github.com/a-padhy",
@@ -51,28 +51,28 @@ const List = [
     },
 
     {
-        image: "/images/male.png",
+        image: "./male.png",
         firstName: "Lucky",
         lastName: "Sharma",
         link: "https://github.com/luckysharma05",
     },
 
     {
-        image: "/images/female.png",
+        image: "./female.png",
         firstName: "Dolly",
         lastName: "Gupta",
         link: "https://github.com/dollygupta07",
     },
 
     {
-        image: "/images/male.png",
+        image: "./male.png",
         firstName: "Aditya",
         lastName: "Jha",
         link: "https://github.com/Adityajha0808",
     },
 
     {
-        image: "/images/male.png",
+        image: "./male.png",
         firstName: "Sourav",
         lastName: "Panigrahi",
         link: "https://github.com/souravpanigrahi",
@@ -86,28 +86,28 @@ const List = [
     },  
   
   {
-    image:"/images/male.png",
+    image:"./male.png",
     firstName: "Paulo",
     lastName: "Vitor",
     link: "https://github.com/PauloVLB",
   }, 
 
   {
-      image: "/images/male.png",
+      image: "./male.png",
       firstName: "Kartik",
       lastName: "Rajput",
       link: "https://github.com/kartikvirendrar",
   },
 
   {
-    image:"/images/female.png",
+    image:"./female.png",
     firstName: "Kézia",
     lastName: "Ketillen",
     link: "https://github.com/Kk3tillen",
    },
   
   {
-    image: "/images/male.png",
+    image: "./male.png",
     firstName: "Isaac",
     lastName: "Lourenço",
     link: "https://github.com/isaacmsl",
@@ -115,7 +115,7 @@ const List = [
 
 
   {
-    image:"/images/male.png",
+    image:"./male.png",
     firstName: "Jam",
     lastName: "Stanley",
     link: "https://github.com/jamstanley",
@@ -136,14 +136,14 @@ const List = [
     },
     
     {
-        image: "/images/male.png",
+        image: "./male.png",
         firstName: "Priyanshu",
         lastName: "Mehra",
         link: "https://github.com/Priyanshu95663",
      },
   
     {
-        image: "/images/male.png",
+        image: "./male.png",
         firstName: "Naiwrit",
         lastName: "Mullick",
         link: "https://github.com/mnaiwrit52",
@@ -151,7 +151,7 @@ const List = [
     },
   
     {
-        image: "/images/male.png",
+        image: "./male.png",
         firstName: "Rony",
         lastName: "singh",
         link: "https://github.com/Unferno",
@@ -165,20 +165,20 @@ const List = [
     },
     
     {
-        image: "/images/male.png",
+        image: "./male.png",
         firstName: "Paul",
         lastName: "Jeremiah",
         link: "https://github.com/0xcyberpj",
     },
  {
-        image: "/images/male.png",
+        image: "./male.png",
         firstName: "Pranjit",
         lastName: "Medhi",
         link: "https://github.com/real-zit",
     },
 
     {
-        image: "/images/male.png",
+        image: "./male.png",
         firstName: "Paras",
         lastName: "Dua",
         link: "https://github.com/paras22",
@@ -190,14 +190,51 @@ const List = [
         lastName: "Kumar",
         link: "https://github.com/vishaaal",
     },
+
     {
-        image: "/images/male.png",
+        image: "./male.png",
         firstName: "Arsh",
         lastName: "Manva",
         link: "https://github.com/hidekiriyuga",
      },
-        
 
+    
+    {
+        image:"https://avatars.githubusercontent.com/zulmarij",
+        firstName: "Zul",
+        lastName: "Marij",
+        link: "https://github.com/zulmarij",
+       },
+
+        
+     {
+        image: "./male.png",
+        firstName: "Gokul",
+        lastName: "AP",
+        link: "https://github.com/gokulapap",
+    },
+
+    {
+        image: "./male.png",
+        firstName: "Rohan",
+        lastName: "Goyal",
+        link: "https://github.com/GoyalRohan",
+      },
+      {
+        image: "./male.png",
+        firstName: "Ankit",
+        lastName: "Kandpal",
+        link: "https://github.com/ak-create",
+    },
+    
+     {
+        image: "./male.png",
+        firstName: "Anshul",
+        lastName: "kumar",
+        link: "https://github.com/Anshul123kumar",
+      },
+    
+    
 
 ];
 
