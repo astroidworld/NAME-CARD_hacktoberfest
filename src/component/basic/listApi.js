@@ -47,6 +47,13 @@ const List = [
     lastName: "Padhy",
     link: "https://github.com/a-padhy",
     },  
+  
+  {
+    image:"/images/female.png",
+    firstName: "Kézia",
+    lastName: "Ketillen",
+    link: "https://github.com/Kk3tillen",
+   },
 ];
 
 export default List;
