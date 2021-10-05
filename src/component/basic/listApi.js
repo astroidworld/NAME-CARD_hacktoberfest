@@ -134,13 +134,22 @@ const List = [
         lastName: "Rudani",
         link: "https://github.com/Rharsh750"
     },
-
- {
+    
+    {
+        image: "/images/male.png",
+        firstName: "Priyanshu",
+        lastName: "Mehra",
+        link: "https://github.com/Priyanshu95663",
+     },
+  
+    {
         image: "/images/male.png",
         firstName: "Naiwrit",
         lastName: "Mullick",
         link: "https://github.com/mnaiwrit52",
+
     },
+  
     {
         image: "/images/male.png",
         firstName: "Rony",
