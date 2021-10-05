@@ -14,7 +14,7 @@ NAME-CARD is a web app where you can showcase your GitHub profile link along wit
 Just follow the below steps to contribute in the project.
 
 # How to contribute to this project
- you can contribute in this project very easily by following few steps. Don't worry... there is no need to know any programming language-related knowledge.
+ You can contribute to this project very easily by following a few steps. Don't worry... there is no need to know any programming language-related knowledge.
  You only have to know the Git and Git-hub, and that's it... Now we are ready to start contributing.
  
  ## Getting started
@@ -57,8 +57,17 @@ git push origin branch-name
 ![doc](https://user-images.githubusercontent.com/75432008/135874675-c2588bb9-c943-4294-a3c8-04e2cc6c611d.PNG)
 
 * so now you have to put your name and github profile link according to the format below:
-* There are two code-snnipet ( First one is for male avtar and the Second one is for female avtar)
+* There are three code-snnipet. select one code snippet from those three. ( First one is for male avtar, the Second one is for female avtar & the Third one is for your github profile avtar)
 * You only have to change your first name,last name & github link with your details.
+---
+**NOTE**
+
+If you are using the GitHub profile code (third code) then additionally you should add your GitHub profile id at the last of the image line instead of githubID.
+* Example:
+* image:"https://avatars.githubusercontent.com/githubID",   <------ (Initially, it is looking like this.)
+* image:"https://avatars.githubusercontent.com/astroidworld", <------ (After changing the githubID with my id it will look like this.)
+
+---
 * But remember, Don't remove the quoation mark.(You can see the demo image below)
 * Please don't remove any other code. Just place your code after the last block of code.
 
@@ -77,6 +86,17 @@ link: "GitHub Link",
 ```markdown
 {
 image:"/images/female.png",
+firstName: "Your",
+lastName: "name",
+link: "GitHub Link",
+},
+```
+### OR
+
+#### For github avtar 
+```markdown
+{
+image:"https://avatars.githubusercontent.com/githubID",
 firstName: "Your",
 lastName: "name",
 link: "GitHub Link",
