@@ -11,7 +11,7 @@ html
 }
 body
 {
-    background-color:  #151516;    
+    background-color:  #151516;
 }
 header
 {
@@ -27,8 +27,9 @@ header h1 div
 }
 header h1
 {
+    font-family: 'Poppins', sans-serif;
     font-size: 5rem;
-    text-align: center;    
+    text-align: center;
     font-family: 'Poppins', sans-serif;
     color: #fff;
     display: inline;
@@ -114,7 +115,7 @@ main h1 div
 .container2 .card .box:hover{
     transform: translateY(-2.0rem);
     box-shadow: 0 4.0rem 7.0rem rgba(0,0,0,0.5);
-    
+
 }
 
 .container2 .card .box .content{
@@ -126,19 +127,25 @@ main h1 div
     margin-top: -2.5rem;
 }
 
+.container2 .card .box .content .avatar-github {
+    width: 15rem;
+    margin:  2rem 0;
+    border-radius: 50%;
+}
+
 .container2 .card .box .content h3{
     font-size: 2.8rem;
     color: rgba(255, 255, 255, 0.918);
     z-index: 1;
     transition: 0.5s;
     margin-top: -1.5rem;
-    
+
 }
 .container2 .card .box .content h4{
     font-size: 1.8rem;
     color: rgba(255, 255, 255, 0.678);
     z-index: 1;
-    transition: 0.5s;    
+    transition: 0.5s;
     margin-top: .5rem;
 }
 
@@ -153,7 +160,7 @@ main h1 div
     font-size: 3rem;
     font-weight: bolder;
     color: #fff;
-    box-shadow: 0 1.0rem 2.0rem rgba(0,0,0,0.2);   
+    box-shadow: 0 1.0rem 2.0rem rgba(0,0,0,0.2);
 }
 .container2 .card:nth-child(3n) .box .content a
 {
