@@ -8,7 +8,7 @@ const List = [
     },
 
     {
-        image: "./images/male.png",
+        image: "./male.png",
         firstName: "Soudip",
         lastName: "Das",
         link: "https://github.com/front-runner-sd",
@@ -22,7 +22,7 @@ const List = [
     },
 
     {
-        image: "/images/female.png",
+        image: "./female.png",
         firstName: "Olga",
         lastName: "Tkach",
         link: "https://github.com/tkacholga",
@@ -58,7 +58,7 @@ const List = [
     },
 
     {
-        image: "/images/female.png",
+        image: "./female.png",
         firstName: "Dolly",
         lastName: "Gupta",
         link: "https://github.com/dollygupta07",
@@ -100,7 +100,7 @@ const List = [
   },
 
   {
-    image:"/images/female.png",
+    image:"./female.png",
     firstName: "Kézia",
     lastName: "Ketillen",
     link: "https://github.com/Kk3tillen",
