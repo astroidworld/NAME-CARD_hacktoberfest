@@ -129,7 +129,7 @@ const List = [
     },
     
     {
-        image: "https://avatars.githubusercontent.com/MananDudhwala",
+        image: "https://avatars.githubusercontent.com/Rharsh750",
         firstName: "Harsh",
         lastName: "Rudani",
         link: "https://github.com/Rharsh750"
