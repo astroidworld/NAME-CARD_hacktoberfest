@@ -74,7 +74,7 @@ If you are using the GitHub profile code (third code) then additionally you shou
 #### For male avtar  
 ```markdown
 {
-image:"/images/male.png",
+image:"./male.png",
 firstName: "Your",
 lastName: "name",
 link: "GitHub Link",
@@ -85,7 +85,7 @@ link: "GitHub Link",
 #### For female avtar
 ```markdown
 {
-image:"/images/female.png",
+image:"./female.png",
 firstName: "Your",
 lastName: "name",
 link: "GitHub Link",
