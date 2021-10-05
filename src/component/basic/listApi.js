@@ -33,7 +33,7 @@ const List = [
     lastName: "Gaur",
     link: "https://github.com/Devansh-gaur-1611",
   },
-  
+
   {
     image: "/images/male.png",
     firstName: "BAIBHAV",
@@ -41,13 +41,12 @@ const List = [
     link: "https://github.com/baibhav0305",
   },
   
-  
-  {
-    image:"/images/male.png",
+ {
+    image: "/images/male.png",
     firstName: "Ashutosh",
     lastName: "Padhy",
     link: "https://github.com/a-padhy",
-    },  
+ },  
       
   {
     image:"/images/female.png",
@@ -55,6 +54,22 @@ const List = [
     lastName: "Gupta",
     link: "https://github.com/dollygupta07",
   }, 
+  
+  {
+    image:"/images/male.png",
+    firstName: "Aditya",
+    lastName: "Jha",
+    link: "https://github.com/Adityajha0808",
+  },
+
+  {
+    image: "/images/male.png",
+    firstName: "Sourav",
+    lastName: "Panigrahi",
+    link: "https://github.com/souravpanigrahi",
+  },
+
+
 ];
 
 export default List;
