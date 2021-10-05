@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/NAME-CARD/static/css/main.c854dff6.chunk.css",
-    "main.js": "/NAME-CARD/static/js/main.21d19c87.chunk.js",
-    "main.js.map": "/NAME-CARD/static/js/main.21d19c87.chunk.js.map",
-    "runtime-main.js": "/NAME-CARD/static/js/runtime-main.0fb9ec35.js",
-    "runtime-main.js.map": "/NAME-CARD/static/js/runtime-main.0fb9ec35.js.map",
-    "static/js/2.11b36550.chunk.js": "/NAME-CARD/static/js/2.11b36550.chunk.js",
-    "static/js/2.11b36550.chunk.js.map": "/NAME-CARD/static/js/2.11b36550.chunk.js.map",
-    "index.html": "/NAME-CARD/index.html",
-    "static/css/main.c854dff6.chunk.css.map": "/NAME-CARD/static/css/main.c854dff6.chunk.css.map",
-    "static/js/2.11b36550.chunk.js.LICENSE.txt": "/NAME-CARD/static/js/2.11b36550.chunk.js.LICENSE.txt"
+    "main.css": "/NAME-CARD_hacktoberfest/static/css/main.92a27a17.chunk.css",
+    "main.js": "/NAME-CARD_hacktoberfest/static/js/main.37626b2d.chunk.js",
+    "main.js.map": "/NAME-CARD_hacktoberfest/static/js/main.37626b2d.chunk.js.map",
+    "runtime-main.js": "/NAME-CARD_hacktoberfest/static/js/runtime-main.310a4c2b.js",
+    "runtime-main.js.map": "/NAME-CARD_hacktoberfest/static/js/runtime-main.310a4c2b.js.map",
+    "static/js/2.64eb51bf.chunk.js": "/NAME-CARD_hacktoberfest/static/js/2.64eb51bf.chunk.js",
+    "static/js/2.64eb51bf.chunk.js.map": "/NAME-CARD_hacktoberfest/static/js/2.64eb51bf.chunk.js.map",
+    "index.html": "/NAME-CARD_hacktoberfest/index.html",
+    "static/css/main.92a27a17.chunk.css.map": "/NAME-CARD_hacktoberfest/static/css/main.92a27a17.chunk.css.map",
+    "static/js/2.64eb51bf.chunk.js.LICENSE.txt": "/NAME-CARD_hacktoberfest/static/js/2.64eb51bf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0fb9ec35.js",
-    "static/js/2.11b36550.chunk.js",
-    "static/css/main.c854dff6.chunk.css",
-    "static/js/main.21d19c87.chunk.js"
+    "static/js/runtime-main.310a4c2b.js",
+    "static/js/2.64eb51bf.chunk.js",
+    "static/css/main.92a27a17.chunk.css",
+    "static/js/main.37626b2d.chunk.js"
   ]
 }
