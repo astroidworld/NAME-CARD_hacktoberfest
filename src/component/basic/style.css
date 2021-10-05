@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800;900&display=swap');
 *
 {
     margin: 0;
@@ -12,6 +13,7 @@ html
 body
 {
     background-color:  #151516;
+    font-family: 'Montserrat', sans-serif;
 }
 header
 {
@@ -27,10 +29,10 @@ header h1 div
 }
 header h1
 {
-    font-family: 'Poppins', sans-serif;
+    
     font-size: 5rem;
     text-align: center;
-    font-family: 'Poppins', sans-serif;
+   
     color: #fff;
     display: inline;
 }
