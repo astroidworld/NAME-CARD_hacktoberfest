@@ -172,6 +172,12 @@ const List = [
     },
 
 
+    {
+        image: "/images/male.png",
+        firstName: "Paras",
+        lastName: "Dua",
+        link: "https://github.com/paras22",
+    },
 
 
 ];
