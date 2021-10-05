@@ -122,7 +122,7 @@ main h1 div
     padding:2.0rem;
     text-align: center;
 }
-.container2 .card .box .content .avatar{
+.container2 .card .box .content #avatar{
     width: 19rem;
     margin-top: -3.5rem;
 }
