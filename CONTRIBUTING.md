@@ -1,22 +1,3 @@
-# 🥳🥳 HacktoberFest Beginner friendly Project 🥳🥳
-
-# 🎴🎴🎴🎴 NAME-CARD 🎴🎴🎴🎴
-
-![hacktober](https://user-images.githubusercontent.com/75432008/135868859-24a254fe-d45f-4b7c-875e-322cab4c49c4.PNG)
-
-# What is Hacktoberfest?
-
-A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. 
-Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
-
-# What is NAME-CARD?
-NAME-CARD is a web app where you can showcase your GitHub profile link along with your name. It is a  beginner friendly project to contribute. 
-Just follow the below steps to contribute in the project.
-
-# How to contribute to this project
- You can contribute to this project very easily by following a few steps. Don't worry... there is no need to know any programming language-related knowledge.
- You only have to know the Git and Git-hub, and that's it... Now we are ready to start contributing.
- 
  ## Getting started
 * star this repository (Click the star button in the top right of this page, beside the fork button)
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
@@ -117,6 +98,5 @@ link: "GitHub Link",
 
 ![example](https://user-images.githubusercontent.com/75432008/135880110-ce4bda52-7da2-4f5a-928e-0765b99ff8ec.PNG)
 
-Check File CONTRIBUTING.md To See the guidelines....
 
 # Stay safe & Keep contributing 

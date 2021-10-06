@@ -1,7 +1,7 @@
 const List = [
 
     {
-        image: "./male.png",
+        image: "https://avatars.githubusercontent.com/astroidworld",
         firstName: "Akash",
         lastName: "Das",
         link: "https://github.com/astroidworld",
@@ -259,6 +259,41 @@ const List = [
         firstName: "Tran Nguyen Thuong",
         lastName: "Truong",
         link: "https://github.com/thuongtruong1009/",
+    }
+
+  
+  {
+		image: "https://avatars.githubusercontent.com/tiago-rodrigues1",
+		firstName: "Tiago",
+		lastName: "Rodrigues",
+		link: "https://github.com/tiago-rodrigues1",
+	},
+  
+      {
+        image:"https://avatars.githubusercontent.com/Dipesh123-ux",
+        firstName: "Dipesh",
+        lastName: "Jaswani",
+        link: "https://github.com/Dipesh123-ux",
+       },
+ {
+        image: "./male.png",
+        firstName: "Rishab",
+        lastName: "Sharma",
+        link: "https://github.com/rishab9750",
+    },
+  
+  	{
+		image: '/images/male.png',
+		firstName: 'Thana',
+		lastName: 'T',
+		link: 'https://github.com/exithere',
+	},
+  
+      {
+        image:"https://avatars.githubusercontent.com/AnkitLenka26",
+        firstName: "Ankit",
+        lastName: "Lenka",
+        link: "https://github.com/AnkitLenka26/",
     },
 
 ];
