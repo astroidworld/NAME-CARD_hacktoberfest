@@ -260,6 +260,12 @@ const List = [
 		link: "https://github.com/tiago-rodrigues1",
 	},
 
+    {
+        image: "./male.png",
+        firstName: "Pratyush",
+        lastName: "Jena",
+        link: "https://github.com/Pr-at30",
+    },
 
 ];
 
