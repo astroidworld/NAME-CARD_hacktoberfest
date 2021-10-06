@@ -40,8 +40,7 @@ git commit -m 'Commit message'
 git push origin branch-name
 ```
 * Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
-* Wait for your PR review and merge approval!
-* After merge, you can see your contribution in this url 👉👉👉 [https://astroidworld.github.io/NAME-CARD_hacktoberfest/](https://astroidworld.github.io/NAME-CARD_hacktoberfest/)
+* Wait for your PR review and merge approval!https://name-card.netlify.app/](https://name-card.netlify.app/)
 
 ## Your task
 
@@ -113,7 +112,7 @@ link: "GitHub Link",
 * And now push the file in online server follwing the above git commands.
 * Then Create a new pull request from your forked repository.
 * Wait for your PR review and merge approval!
-* After merge, you can see your contribution in this url 👉👉👉 [https://astroidworld.github.io/NAME-CARD_hacktoberfest/](https://astroidworld.github.io/NAME-CARD_hacktoberfest/)
+* After merge, you can see your contribution in this url 👉👉👉 [https://name-card.netlify.app/](https://name-card.netlify.app/)
 * It will look like:
 
 ![example](https://user-images.githubusercontent.com/75432008/135880110-ce4bda52-7da2-4f5a-928e-0765b99ff8ec.PNG)
