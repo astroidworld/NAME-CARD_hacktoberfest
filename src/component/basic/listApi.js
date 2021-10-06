@@ -253,6 +253,13 @@ const List = [
         link: "https://github.com/raghavkh30/",
     },
 
+    {
+        image: "./male.png",
+        firstName: "Nishit",
+        lastName: "Jain",
+        link: "https://github.com/nishitjain1204",
+    },
+
 
 ];
 
