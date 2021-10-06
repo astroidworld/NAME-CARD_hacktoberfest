@@ -291,7 +291,7 @@ const List = [
           firstName:"Priyanshu",
           lastName:"Agrawal",
           link:"https://github.com/thisispriyanshu/",
-      }
+      },
 ];
 
 export default List;
