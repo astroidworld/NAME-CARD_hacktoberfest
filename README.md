@@ -117,5 +117,6 @@ link: "GitHub Link",
 
 ![example](https://user-images.githubusercontent.com/75432008/135880110-ce4bda52-7da2-4f5a-928e-0765b99ff8ec.PNG)
 
+Check File CONTRIBUTING.md To See the guidelines....
 
 # Stay safe & Keep contributing 
