@@ -11,7 +11,7 @@ const Namecard1 = () => {
         <div class="container">
 <header><h1><div>NAME-CARD</div></h1></header>
 <main>   
-<div class="mainheading"><h1><div> Successfull contributers list</div></h1></div>
+<div class="mainheading"><h1><div> Successful Contributors List</div></h1></div>
 <div class="container2">
     <ListCard listdata={listdata}/>
 </div> 
