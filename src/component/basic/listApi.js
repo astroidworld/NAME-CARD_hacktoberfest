@@ -1,7 +1,7 @@
 const List = [
 
     {
-        image: "./male.png",
+        image: "https://avatars.githubusercontent.com/astroidworld",
         firstName: "Akash",
         lastName: "Das",
         link: "https://github.com/astroidworld",
@@ -192,11 +192,20 @@ const List = [
     },
 
     {
+        image: "./male.png",
+        firstName: "Arsh",
+        lastName: "Manva",
+        link: "https://github.com/hidekiriyuga",
+    },
+
+
+    {
         image: "https://avatars.githubusercontent.com/zulmarij",
         firstName: "Zul",
         lastName: "Marij",
         link: "https://github.com/zulmarij",
     },
+
 
     {
         image: "./male.png",
@@ -211,32 +220,73 @@ const List = [
         lastName: "Goyal",
         link: "https://github.com/GoyalRohan",
     },
-
     {
-        image: "/images/male.png",
-        firstName: "Anshul",
-        lastName: "kumar",
-        link: "https://github.com/Anshul123kumar",
+        image: "./male.png",
+        firstName: "Ankit",
+        lastName: "Kandpal",
+        link: "https://github.com/ak-create",
     },
 
     {
+        image: "./male.png",
+        firstName: "Anshul",
+        lastName: "kumar",
+        link: "https://github.com/Anshul123kumar",
+     },
+    {
+        image: "./male.png",
+        firstName: "Akshay",
+        lastName: "Chopade",
+        link: "https://github.com/akshay399",
+    },
+  
+    {
+        image:"https://avatars.githubusercontent.com/JayantGoel001",
+        firstName: "Jayant",
+        lastName: "Goel",
+        link: "https://github.com/JayantGoel001/",
+    },
+{
+        image:"https://avatars.githubusercontent.com/raghavkh30",
+        firstName: "Raghav",
+        lastName: "kumar",
+        link: "https://github.com/raghavkh30/",
+    },
+  
+  {
+		image: "https://avatars.githubusercontent.com/tiago-rodrigues1",
+		firstName: "Tiago",
+		lastName: "Rodrigues",
+		link: "https://github.com/tiago-rodrigues1",
+	},
+  
+      {
+        image:"https://avatars.githubusercontent.com/Dipesh123-ux",
+        firstName: "Dipesh",
+        lastName: "Jaswani",
+        link: "https://github.com/Dipesh123-ux",
+       },
+ {
+        image: "./male.png",
+        firstName: "Rishab",
+        lastName: "Sharma",
+        link: "https://github.com/rishab9750",
+    },
+  
+  	{
+		image: '/images/male.png',
+		firstName: 'Thana',
+		lastName: 'T',
+		link: 'https://github.com/exithere',
+	},
+  
+      {
         image: "https://avatars.githubusercontent.com/IspadeRaja",
         firstName: "ArumugaRaja",
         lastName: "R",
         link: "https://github.com/IspadeRaja"
-    }
-
-
+    },
 
 ];
 
 export default List;
-
-
-
-
-
-
-
-
-
