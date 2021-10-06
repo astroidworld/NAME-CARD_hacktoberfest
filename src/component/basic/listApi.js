@@ -281,10 +281,10 @@ const List = [
 	},
   
       {
-        image: "https://avatars.githubusercontent.com/IspadeRaja",
-        firstName: "ArumugaRaja",
-        lastName: "R",
-        link: "https://github.com/IspadeRaja"
+        image:"https://avatars.githubusercontent.com/AnkitLenka26",
+        firstName: "Ankit",
+        lastName: "Lenka",
+        link: "https://github.com/AnkitLenka26/",
     },
 
 ];
