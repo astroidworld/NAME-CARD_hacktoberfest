@@ -10,7 +10,7 @@ const ListCard = ({listdata}) => {
                     <div class="card" key={curElement.id}>
                         <div class="box">
                             <div class="content">
-                                {curElement.image.charAt(0) != "."
+                                {curElement.image.charAt(0) !== "."
                                     ? <img src={curElement.image} class="avatar-github" alt="avatar"></img>
                                     : <img src={curElement.image} id="avatar" alt="avatar"></img>}
                                  {/*<img src={curElement.image} alt="avatar"></img>*/}
