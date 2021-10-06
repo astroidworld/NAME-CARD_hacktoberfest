@@ -279,6 +279,13 @@ const List = [
 		lastName: 'T',
 		link: 'https://github.com/exithere',
 	},
+  
+      {
+        image: "https://avatars.githubusercontent.com/IspadeRaja",
+        firstName: "ArumugaRaja",
+        lastName: "R",
+        link: "https://github.com/IspadeRaja"
+    },
 
 ];
 
