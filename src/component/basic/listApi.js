@@ -285,7 +285,12 @@ const List = [
         firstName: "Ankit",
         lastName: "Lenka",
         link: "https://github.com/AnkitLenka26/",
-    },
+    },{
+        image:"https://avatars.githubusercontent.com/nketch-official",
+        firstName:"Nitesh",
+        lastName:"Kumar",
+        link:"https://github.com/nktech-official/"
+    }
 
 ];
 
