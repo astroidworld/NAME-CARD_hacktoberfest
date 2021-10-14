@@ -272,7 +272,12 @@ const List = [
         lastName: "Sharma",
         link: "https://github.com/rishab9750",
     },
-  
+    {
+        image: "./male.png",
+        firstName: "Gaurav",
+        lastName: "Shah",
+        link: "https://github.com/GaurKS",
+    },  
   	{
 		image: '/images/male.png',
 		firstName: 'Thana',
