@@ -4,7 +4,7 @@ import List from "./listApi.js"
 import ListCard from './listCard'
 const Namecard1 = () => {
 // eslint-disable-next-line
-  const [listdata , setListdata] = React.useState(List);
+  const [listdata , setListdata] = useState(List);
   
     return (
         <> 
