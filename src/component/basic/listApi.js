@@ -292,7 +292,7 @@ const List = [
         firstName: "Jyesh",
         lastName: "Batra",
         link: "https://github.com/JyeshBatra",
-    },
+    }
 
 ];
 
