@@ -294,6 +294,13 @@ const List = [
         link: "https://github.com/tataisarkar/",
     },
 
+    {
+        image:"./male.png",
+        firstName: "Abhik",
+        lastName: "Chakrabortty",
+        link: "https://github.com/myname-abhik",
+        },
+
 ];
 
 export default List;
