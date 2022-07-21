@@ -300,6 +300,14 @@ const List = [
         lastName: "Chakrabortty",
         link: "https://github.com/myname-abhik",
         },
+    
+
+        {
+            image:"https://avatars.githubusercontent.com/youtanimstar",
+            firstName: "Deep",
+            lastName: "Das",
+            link: "https://github.com/youtanimstar",
+            },
 
 ];
 
