@@ -170,6 +170,7 @@ const List = [
         lastName: "Jeremiah",
         link: "https://github.com/0xcyberpj",
     },
+    
     {
         image: "./male.png",
         firstName: "Pranjit",
@@ -198,14 +199,12 @@ const List = [
         link: "https://github.com/hidekiriyuga",
     },
 
-
     {
         image: "https://avatars.githubusercontent.com/zulmarij",
         firstName: "Zul",
         lastName: "Marij",
         link: "https://github.com/zulmarij",
     },
-
 
     {
         image: "./male.png",
@@ -233,6 +232,7 @@ const List = [
         lastName: "kumar",
         link: "https://github.com/Anshul123kumar",
      },
+    
     {
         image: "./male.png",
         firstName: "Akshay",
@@ -246,12 +246,21 @@ const List = [
         lastName: "Goel",
         link: "https://github.com/JayantGoel001/",
     },
-{
+    
+    {
         image:"https://avatars.githubusercontent.com/raghavkh30",
         firstName: "Raghav",
         lastName: "kumar",
         link: "https://github.com/raghavkh30/",
     },
+    
+    {
+        image:"https://avatars.githubusercontent.com/thuongtruong1009",
+        firstName: "Tran Nguyen Thuong",
+        lastName: "Truong",
+        link: "https://github.com/thuongtruong1009/",
+    }
+
   
   {
 		image: "https://avatars.githubusercontent.com/tiago-rodrigues1",
