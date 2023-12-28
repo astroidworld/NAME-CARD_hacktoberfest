@@ -232,89 +232,96 @@ const List = [
         firstName: "Anshul",
         lastName: "kumar",
         link: "https://github.com/Anshul123kumar",
-     },
+    },
     {
         image: "./male.png",
         firstName: "Akshay",
         lastName: "Chopade",
         link: "https://github.com/akshay399",
     },
-  
+
     {
-        image:"https://avatars.githubusercontent.com/JayantGoel001",
+        image: "https://avatars.githubusercontent.com/JayantGoel001",
         firstName: "Jayant",
         lastName: "Goel",
         link: "https://github.com/JayantGoel001/",
     },
-{
-        image:"https://avatars.githubusercontent.com/raghavkh30",
+    {
+        image: "https://avatars.githubusercontent.com/raghavkh30",
         firstName: "Raghav",
         lastName: "kumar",
         link: "https://github.com/raghavkh30/",
     },
-  
-  {
-		image: "https://avatars.githubusercontent.com/tiago-rodrigues1",
-		firstName: "Tiago",
-		lastName: "Rodrigues",
-		link: "https://github.com/tiago-rodrigues1",
-	},
-  
-      {
-        image:"https://avatars.githubusercontent.com/Dipesh123-ux",
+
+    {
+        image: "https://avatars.githubusercontent.com/tiago-rodrigues1",
+        firstName: "Tiago",
+        lastName: "Rodrigues",
+        link: "https://github.com/tiago-rodrigues1",
+    },
+
+    {
+        image: "https://avatars.githubusercontent.com/Dipesh123-ux",
         firstName: "Dipesh",
         lastName: "Jaswani",
         link: "https://github.com/Dipesh123-ux",
-       },
- {
+    },
+    {
         image: "./male.png",
         firstName: "Rishab",
         lastName: "Sharma",
         link: "https://github.com/rishab9750",
     },
-  
-  	{
-		image: '/images/male.png',
-		firstName: 'Thana',
-		lastName: 'T',
-		link: 'https://github.com/exithere',
-	},
-  
-      {
-        image:"https://avatars.githubusercontent.com/AnkitLenka26",
+
+    {
+        image: '/images/male.png',
+        firstName: 'Thana',
+        lastName: 'T',
+        link: 'https://github.com/exithere',
+    },
+
+    {
+        image: "https://avatars.githubusercontent.com/AnkitLenka26",
         firstName: "Ankit",
         lastName: "Lenka",
         link: "https://github.com/AnkitLenka26/",
     },
 
-      {
-        image:"https://avatars.githubusercontent.com/tataisarkar",
+    {
+        image: "https://avatars.githubusercontent.com/tataisarkar",
         firstName: "Pranjal",
         lastName: "Sarkar",
         link: "https://github.com/tataisarkar/",
     },
 
     {
-        image:"./male.png",
+        image: "./male.png",
         firstName: "Abhik",
         lastName: "Chakrabortty",
         link: "https://github.com/myname-abhik",
-        },
-    
+    },
 
-        {
-            image:"https://avatars.githubusercontent.com/youtanimstar",
-            firstName: "Deep",
-            lastName: "Das",
-            link: "https://github.com/youtanimstar",
-            },
 
-            {
-                image:"./female.png",
-                firstName: "Soumali",
-                lastName: "Sau",
-                link: "https://github.com/codersoumali",
-                },
+    {
+        image: "https://avatars.githubusercontent.com/youtanimstar",
+        firstName: "Deep",
+        lastName: "Das",
+        link: "https://github.com/youtanimstar",
+    },
+
+    {
+        image: "./female.png",
+        firstName: "Soumali",
+        lastName: "Sau",
+        link: "https://github.com/codersoumali",
+    },
+
+    {
+        image: "https://avatars.githubusercontent.com/dave-mash",
+        firstName: "David",
+        lastName: "Mwangi",
+        link: "https://github.com/dave-mash",
+    }
 
 ];
 
